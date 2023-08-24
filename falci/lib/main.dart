@@ -132,7 +132,7 @@ class _govdeBolumuState extends State<govdeBolumu> {
               padding: const EdgeInsets.symmetric(vertical: 7, horizontal: 30),
               child: Text(
                 yanitlar[yanitIndex],
-                style: const TextStyle(fontSize: 16),
+                style: const TextStyle(fontSize: 16, color: Colors.white),
                 textAlign: TextAlign.center,
               ),
             ),
